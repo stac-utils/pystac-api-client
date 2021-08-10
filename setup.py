@@ -29,7 +29,7 @@ setup(
     include_package_data=False,
     install_requires=[
         "python-dateutil>=2.7.0",
-        "requests~=2.25.1",
+        "requests~=2.25",
         "pystac~=1.1.0"
     ],
     extras_require={
